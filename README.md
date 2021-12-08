@@ -1,4 +1,4 @@
-# P2PChatApp
+# P2P Chat
 *This project is part of the Development of Distributed Systems (GEIAL519-Ma) course at Informatics Institute of the University of Miskolc.*
 ### Introduction
 A simple Peer-to-Peer (P2P) Chat Application built using Java sockets and multithreading.  
